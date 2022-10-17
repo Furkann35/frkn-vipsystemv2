@@ -25,11 +25,11 @@ _https://ibb.co/zZ45kCN_
 
 # Config.Table
 
-- What the titles here do are written next to them in the config as an explanation. (Example : https://ibb.co/VHKPGP5)
+- What the titles here do are written next to them in the config as an explanation. (Example : _https://ibb.co/VHKPGP5_)
 
 - You can easily change the names, nicknames, pictures and required amount of coins of vehicles and items in seconds.
 
-- In addition, if the photos are corrupted while adding photos to items or vehicles, you can easily change them via the config as you can see in the example. $ {Example : https://ibb.co/2y9gHHz}$
+- In addition, if the photos are corrupted while adding photos to items or vehicles, you can easily change them via the config as you can see in the example.  (Example : _https://ibb.co/2y9gHHz_)
 
 [Alt text](relative/path/to/https://ibb.co/2y9gHHz?raw=true "Title")
 [Alt text](https://ibb.co/2y9gHHz/2y9gHHz?raw=true "Title")
